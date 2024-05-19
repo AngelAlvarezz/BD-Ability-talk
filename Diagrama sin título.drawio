@@ -1,9 +1,311 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T01:28:30.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.0.2" etag="o4IUpsi-Pvdr8GhCMRzN" type="github">
-  <diagram name="Página-1" id="nHeBNwNYuckevhK_Uwe-">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2024-05-19T02:43:02.580Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="xAlNKuAmkuugSvNkC9xP" version="24.4.4" type="github">
+  <diagram name="Página-1" id="CWgbCGPUpLPmtxGDH2ti">
+    <mxGraphModel dx="1200" dy="1883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JrbaMxCT-diLNAGKBusH-41" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Mostrar%20detalles%20del%20receptor%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23f8cecc%3BstrokeColor%3D%23b85450%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221706%22%20y%3D%22840%22%20width%3D%22174%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-90" width="1350" height="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-42" target="JrbaMxCT-diLNAGKBusH-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-42" target="JrbaMxCT-diLNAGKBusH-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-42" target="JrbaMxCT-diLNAGKBusH-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-42" target="JrbaMxCT-diLNAGKBusH-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-42" target="JrbaMxCT-diLNAGKBusH-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-42" target="JrbaMxCT-diLNAGKBusH-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-42" target="JrbaMxCT-diLNAGKBusH-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-42" value="Tutor&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="89" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-51" value="iniciar sesion en abilitytalk" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="40" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-52" value="Ingresar al apartado de chats" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="150" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-53" value="Seleccionar la opción para iniciar un nuevo chat" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="250" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-54" value="Seleccionar al receptor del mensaje" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="360" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-55" value="Escribir el mensaje con emoticonos, caracteres,etc" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="470" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-56" value="Envíar el mensaje al receptor" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="585" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-57" value="Acceder a las notificaciones del chat" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="700" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-59" value="Paciente&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="290" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-59" target="JrbaMxCT-diLNAGKBusH-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="340" />
+              <mxPoint x="1020" y="96" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.685;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-59" target="JrbaMxCT-diLNAGKBusH-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="340" />
+              <mxPoint x="1020" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.715;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-59" target="JrbaMxCT-diLNAGKBusH-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="340" />
+              <mxPoint x="1020" y="307" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-90" value="&lt;div&gt;Sistema&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="495" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.725;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-90" target="JrbaMxCT-diLNAGKBusH-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-97" value="Nombre&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="-60" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-98" value="Password" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="40" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-99" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-51" target="JrbaMxCT-diLNAGKBusH-97">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1480" y="90" as="sourcePoint" />
+            <mxPoint x="1530" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1550" y="80" />
+              <mxPoint x="1550" y="-20" />
+              <mxPoint x="1630" y="-20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-102" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-51" target="JrbaMxCT-diLNAGKBusH-98">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1560" y="160" as="sourcePoint" />
+            <mxPoint x="1610" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-103" value="Navega el apartado al citas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="150" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-104" value="Accede al menu principal de la aplicacion&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="250" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-105" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-52" target="JrbaMxCT-diLNAGKBusH-103">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1540" y="260" as="sourcePoint" />
+            <mxPoint x="1590" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-106" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-52" target="JrbaMxCT-diLNAGKBusH-104">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1570" y="320" as="sourcePoint" />
+            <mxPoint x="1620" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1570" y="190" />
+              <mxPoint x="1570" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-107" value="Mostrar la lista de contactos" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="544.5" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-108" value="Elegir el nuevo chat" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="440" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-109" value="Elegir la seccion de citas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="350" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-110" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-52" target="JrbaMxCT-diLNAGKBusH-109">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1620" y="410" as="sourcePoint" />
+            <mxPoint x="1650" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1570" y="190" />
+              <mxPoint x="1570" y="290" />
+              <mxPoint x="1570" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="130" as="sourcePoint" />
+            <mxPoint x="1260" y="758" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="825" y="130" />
+              <mxPoint x="825" y="758" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-116" value="Seleccionar contacto" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="650" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-117" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-53" target="JrbaMxCT-diLNAGKBusH-108">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1660" y="540" as="sourcePoint" />
+            <mxPoint x="1710" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1510" y="290" />
+              <mxPoint x="1510" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-118" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-53" target="JrbaMxCT-diLNAGKBusH-107">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1660" y="590" as="sourcePoint" />
+            <mxPoint x="1710" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1510" y="290" />
+              <mxPoint x="1510" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-119" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-53" target="JrbaMxCT-diLNAGKBusH-116">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1640" y="720" as="sourcePoint" />
+            <mxPoint x="1690" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1510" y="290" />
+              <mxPoint x="1510" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-41" target="JrbaMxCT-diLNAGKBusH-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-122" value="Seleccionar a quien ese enviara el mensaje&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="730" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-123" value="Mostrar detalles del receptor" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="830" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-124" value="Confirmar seleccion del receptor" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="930" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-125" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-54" target="JrbaMxCT-diLNAGKBusH-122">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1600" y="850" as="sourcePoint" />
+            <mxPoint x="1650" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1490" y="400" />
+              <mxPoint x="1490" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-127" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-54" target="JrbaMxCT-diLNAGKBusH-123">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1450" y="860" as="sourcePoint" />
+            <mxPoint x="1500" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1490" y="400" />
+              <mxPoint x="1490" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-129" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-124" target="JrbaMxCT-diLNAGKBusH-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1480.0018309859154" y="1040" as="sourcePoint" />
+            <mxPoint x="1518.03" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1490" y="970" />
+              <mxPoint x="1490" y="940" />
+              <mxPoint x="1490" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-130" value="Redactar mensaje" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="990" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-131" value="Escribir el mensaje" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="1110" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-132" value="Insertar caracteres especiales" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1893" y="1210" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-136" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-130" target="JrbaMxCT-diLNAGKBusH-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1899" y="1050" as="sourcePoint" />
+            <mxPoint x="1470" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1470" y="1030" />
+              <mxPoint x="1470" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-139" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-131" target="JrbaMxCT-diLNAGKBusH-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1680" y="800" as="sourcePoint" />
+            <mxPoint x="1730" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1760" y="1150" />
+              <mxPoint x="1760" y="1030" />
+              <mxPoint x="1470" y="1030" />
+              <mxPoint x="1470" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-140" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-132" target="JrbaMxCT-diLNAGKBusH-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1350" y="1110" as="sourcePoint" />
+            <mxPoint x="1400" y="1060" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1760" y="1250" />
+              <mxPoint x="1760" y="1030" />
+              <mxPoint x="1470" y="1030" />
+              <mxPoint x="1470" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-142" value="Revisar mensaje antes en enviar&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="1100" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-143" value="Confirmar el envió del mensaje" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="1200" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-144" value="Enviar el mensaje" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="1300" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-145" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-142" target="JrbaMxCT-diLNAGKBusH-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1480" y="760" as="sourcePoint" />
+            <mxPoint x="1530" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1450" y="1140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrbaMxCT-diLNAGKBusH-146" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JrbaMxCT-diLNAGKBusH-143" target="JrbaMxCT-diLNAGKBusH-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1320" y="980" as="sourcePoint" />
+            <mxPoint x="1370" y="930" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1450" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
